@@ -9,7 +9,7 @@ Calculadora cujo executa operações simples com base em programação Python.
 
 
 
-##Calculadora em Python para WSL
+## Calculadora em Python para WSL
 
 ### Descrição do Projeto
 Este projeto implementa uma calculadora simples em Python, capaz de realizar operações de adição, subtração, multiplicação e divisão. Destina-se a ser executado no ambiente WSL (Windows Subsystem for Linux).
