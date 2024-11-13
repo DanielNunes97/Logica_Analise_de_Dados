@@ -21,4 +21,4 @@ Este projeto implementa uma calculadora simples em Python, capaz de realizar ope
 Para executar o script da calculadora, utilize o comando abaixo no terminal WSL, dentro do diretório onde o arquivo Python está salvo:
 
 ```bash
-python3 calculadora.sh
+python3 calculadora.py
